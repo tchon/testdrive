@@ -1,0 +1,8 @@
+{
+    "blacklistHosts": [
+      "www.google-analytics.com",
+      "securepubads.g.doubleclick.net",
+      "ct.pinterest.com",
+      "beacon.walmart.com"
+    ]
+}
